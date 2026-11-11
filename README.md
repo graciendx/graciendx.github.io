@@ -2,6 +2,8 @@
 
 A static HTML, CSS and JavaScript portfolio for business analytics, financial operations and applied research.
 
+Repository maintainer: [graciendx](https://github.com/graciendx).
+
 Live portfolio: https://graciendx.github.io/
 
 This is the canonical source for the public portfolio at https://graciendx.github.io/.
